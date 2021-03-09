@@ -1,3 +1,10 @@
+---
+title: "CV"
+author: "Mario Morales"
+date: "03/09/2021"
+output: html_document
+---
+
 ## Mario Morales, M.A.
 
 School of Government and Public Policy, College of Social and Behavioral Science,
@@ -6,9 +13,7 @@ P.O. Box 210027, Social Science 315, 1145 E South Campus Dr., Tucson, AZ 85719, 
 mariomorales@email.arizona.edu
 (520) 621-7600
 
-### Markdown
-
-```markdown
+```{r}
 
 # Education
 
